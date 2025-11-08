@@ -16,6 +16,12 @@
 </div>
 
 ---
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,aws,azure,react,nextjs,tailwind,python,flask,nodejs,mongodb,sqlite,vscode" height="80" />
+</div>
+
 
 ### 👨‍💻 About Me
 
@@ -40,15 +46,7 @@
 
 - ⚡ Fun fact → **I debug faster when drinking tea ☕ — and I love teaching code as much as writing it 💻.**
 
----
 
-### 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,aws,azure,react,nextjs,tailwind,python,flask,nodejs,mongodb,sqlite,vscode" height="80" />
-</div>
-
----
 
 ### 🌐 Connect With Me
 
