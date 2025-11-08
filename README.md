@@ -45,7 +45,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,flask,nodejs,mongodb,sqlite,docker,nginx,git,github,aws,vscode" height="70" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,aws,azure,react,nextjs,tailwind,python,flask,nodejs,mongodb,sqlite,vscode" height="80" />
 </div>
 
 ---
