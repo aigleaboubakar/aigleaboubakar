@@ -25,26 +25,26 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[NaibiAfrica – Online Pre-registration Platform](https://naibiafrica.com)**  
+- I’m currently working on **[NaibiAfrica – Online Pre-registration Platform](https://naibiafrica.com)**  
   → A nationwide project digitalizing academic pre-registration and student data management across Chad.
 
-- ⚙️ I specialize in **Full-Stack development** and **DevOps automation** (CI/CD, Docker, Nginx, VPS).  
+-  I specialize in **Full-Stack development** and **DevOps automation** (CI/CD, Docker, Nginx, VPS).  
 
-- 🌱 I’m currently learning **Microservices architecture**, **TypeScript**, **Next.js 14 App Router**, **Framer Motion**, and **Cloud automation**.  
+-  I’m currently learning **Microservices architecture**, **TypeScript**, **Next.js 14 App Router**, **Framer Motion**, and **Cloud automation**.  
 
-- 👯 I’m open to collaborate on **open-source projects driving digital transformation & innovation in Africa**.  
+-  I’m open to collaborate on **open-source projects driving digital transformation & innovation in Africa**.  
 
-- 🤝 I’m looking for contributors for **Akzi Network**, a desktop platform for telecom service agencies (maintenance, billing, management).  
+-  I’m looking for contributors for **Akzi Network**, a desktop platform for telecom service agencies (maintenance, billing, management).  
 
-- 💬 Ask me about **Flask, React, Next.js, MongoDB, Docker, Nginx, VPS, Software Architecture, or DevOps pipelines.**  
+-  Ask me about **Flask, React, Next.js, MongoDB, Docker, Nginx, VPS, Software Architecture, or DevOps pipelines.**  
 
-- 📫 Reach me at **mahamataboubakar08@gmail.com** | 📞 **+235 66 68 39 26**  
+-  Reach me at **mahamataboubakar08@gmail.com** | 📞 **+235 66 68 39 26**  
 
-- 👨‍💻 Visit my work on [🌐 aboubakri.com](https://aboubakri.com)  
+-  Visit my work on [ aboubakri.com](https://aboubakri.com)  
 
-- 📝 I write about **technology, DevOps, and digital innovation** at [🌐 aboubakri.com/blog](https://aboubakri.com/blog)  
+-  I write about **technology, DevOps, and digital innovation** at [ aboubakri.com/blog](https://aboubakri.com/blog)  
 
-- ⚡ Fun fact → **I debug faster when drinking tea ☕ — and I love teaching code as much as writing it 💻.**
+-  Fun fact → **I debug faster when drinking tea ☕ — and I love teaching code as much as writing it .**
 
 
 
