@@ -1,11 +1,11 @@
-<!-- 🎯 Professional GitHub Profile / Portfolio Section -->
+<!--   Professional GitHub Profile / Portfolio Section -->
 <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35"/> 
   Hi, I'm <strong>Aboubakar Mahamat Ali</strong>
 </h1>
 
 <h3 align="center">
-  💻 Full-Stack & DevOps Engineer from Chad 🇹🇩 <br/>
+    Full-Stack & DevOps Engineer from Chad  <br/>
   <em>Building scalable, secure and modern digital platforms with passion and precision.</em>
 </h3>
 
@@ -16,14 +16,14 @@
 </div>
 
 ---
-### 🧰 Tech Stack
+###  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,aws,azure,react,nextjs,tailwind,python,flask,nodejs,mongodb,sqlite,vscode" height="80" />
 </div>
 
 
-### 👨‍💻 About Me
+###  About Me
 
 - I’m currently working on **[NaibiAfrica – Online Pre-registration Platform](https://naibiafrica.com)**  
   → A nationwide project digitalizing academic pre-registration and student data management across Chad.
@@ -48,7 +48,7 @@
 
 
 
-### 🌐 Connect With Me
+###   Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/aboubakar-mahamat-ali" target="_blank">
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###   GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aigleaboubakar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="165" alt="GitHub Stats"/>
@@ -80,7 +80,7 @@
 
 ---
 
-### 🕹️ Contribution Graph (Pac-Man Mode 😄)
+###   Contribution Graph (Pac-Man Mode )
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aigleaboubakar/aigleaboubakar/output/pacman-contribution-graph-dark.svg">
@@ -90,6 +90,6 @@
 
 ---
 
-### 🧠 Quote I Live By
+###   Quote I Live By
 > “Technology is the bridge between ideas and impact — build tools that empower others.”  
 > — *Aboubakar Mahamat Ali*
