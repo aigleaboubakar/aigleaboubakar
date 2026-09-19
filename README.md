@@ -40,7 +40,7 @@
 
 -  Reach me at **mahamataboubakar08@gmail.com** | 📞 **+235 66 68 39 26**  
 
--  Visit my work on [ aboubakar.tech](https://aboubakri.com)  
+-  Visit my work on [ aboubakar.tech](https://aboubakar.tech)  
 
 -  I write about **technology, DevOps, and digital innovation** at [ aboubakar.tech/blog](https://aboubakar.tech/blog)  
 
