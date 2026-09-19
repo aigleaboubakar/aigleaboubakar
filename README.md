@@ -40,9 +40,9 @@
 
 -  Reach me at **mahamataboubakar08@gmail.com** | 📞 **+235 66 68 39 26**  
 
--  Visit my work on [ aboubakri.com](https://aboubakri.com)  
+-  Visit my work on [ aboubakar.tech](https://aboubakri.com)  
 
--  I write about **technology, DevOps, and digital innovation** at [ aboubakri.com/blog](https://aboubakri.com/blog)  
+-  I write about **technology, DevOps, and digital innovation** at [ aboubakar.tech/blog](https://aboubakar.tech/blog)  
 
 -  Fun fact → **I debug faster when drinking tea ☕ — and I love teaching code as much as writing it .**
 
